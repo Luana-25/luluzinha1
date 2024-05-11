@@ -10,13 +10,21 @@
             text-align: center;
         }
         h1 {
-            color: #333;
+            color: #7e0000;
         }
         p {
-            color: #666;
+            color: #312c2c;
             text-align: center;
         }
         .destination {
             margin-top: 20px;
         }
+        
+        .img {
+            max-width: 89%;
+            height: auto;
+            display: block;
+        }
+    
+
     </style>
