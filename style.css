@@ -5,7 +5,7 @@
             padding: 0;
         }
         .container {
-            max-width: 800px;
+            max-width: 100px;
             margin: 0 auto;
             text-align: center;
         }
@@ -16,6 +16,12 @@
             color: #312c2c;
             text-align: center;
         }
+
+        .meio {
+            position: relative;
+            display: block;
+        }
+        
         .destination {
             margin-top: 20px;
         }
