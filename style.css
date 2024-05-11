@@ -4,6 +4,34 @@
             margin: 0;
             padding: 0;
         }
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        h1 {
+            color: #7e0000;
+        }
+        p {
+            color: #312c2c;
+            text-align: center;
+        }
+        .destination {
+            margin-top: 20px;
+        }
+        .destination img {
+            max-width: 100%; /* Define a largura máxima da imagem como 100% */
+            height: auto; /* Mantém a proporção da imagem */
+            width: 100%; /* Define a largura da imagem como 100% */
+            max-height: 200px; /* Define uma altura máxima para as imagens */
+        }
+
         .container {
             max-width: 100px;
             margin: 0 auto;
