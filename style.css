@@ -21,16 +21,15 @@
             position: relative;
             display: block;
         }
-        
+
         .destination {
             margin-top: 20px;
         }
         
-        .img {
-            max-width: 50%;
-            height: auto;
-            display: block;
+        .meio img {
+            max-width: 100%; /* Define a largura máxima da imagem como 100% */
+            height: auto; /* Mantém a proporção da imagem */
         }
-    
+        
 
     </style>
